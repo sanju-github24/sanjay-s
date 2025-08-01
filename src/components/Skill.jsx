@@ -25,9 +25,10 @@ desc: "High-level programming language for web, AI, and automation",
     desc: "Interaction",
   },
   {
-    imgSrc: "/images/nodejs.svg",
-    label: "NodeJS",
-    desc: "Web Server",
+    imgSrc: "/images/java-icon.svg",
+    label: "Java",
+    desc: "Object-oriented language for web",
+
   },
   {
     imgSrc: "/images/expressjs.svg",
