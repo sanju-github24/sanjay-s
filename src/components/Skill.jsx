@@ -9,9 +9,10 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: "/images/figma.svg",
-    label: "Figma",
-    desc: "Design tool",
+    imgSrc: "/images/python.svg",
+label: "Python",
+desc: "High-level programming language for web, AI, and automation",
+
   },
   {
     imgSrc: "/images/css3.svg",
