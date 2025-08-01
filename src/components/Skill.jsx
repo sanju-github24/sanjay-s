@@ -9,7 +9,7 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: "/images/python.svg",
+    imgSrc: "/images/python-icon.svg",
 label: "Python",
 desc: "High-level programming language for web, AI, and automation",
 
